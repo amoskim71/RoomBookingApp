@@ -1,5 +1,5 @@
 
-For this app following technologys and libraries used
+This App implemented using following technologys and libraries
 
 kotlin-android<br>
 MVVM-architecture<br>
