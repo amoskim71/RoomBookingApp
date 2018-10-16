@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">RoomBookingApp</string>
+
+    <string name="slot_time">Slot time:</string>
+    <string name="room_no">Room No:</string>
+    <string name="title_hint">Enter title</string>
+    <string name="description_hint">Enter description</string>
+    <string name="name_hint">Enter Name</string>
+    <string name="email_hint">Enter Email</string>
+    <string name="phone_hint">Enter Phone</string>
+
+    <string name="hide">Hide</string>
+    <string name="add">Add</string>
+    <string name="sendpass">SendPass</string>
+    <string name="add_person">AddPerson</string>
+
+
+    <string name="filter">Filter:</string>
+    <string name="filter_hint">Enter the filter text here</string>
+    <string name="available_one_hour">available for next hour</string>
+
+    <string name="red_slot">Red- Slots not available</string>
+
+    <string name="green_slot">Green- Slots available</string>
+    <string name="name">Name:</string>
+    <string name="location">Location:</string>
+    <string name="capacity">Capacity:</string>
+    <string name="size">Size:</string>
+    <string name="equipment">Equipment</string>
+    <string name="availability">Availability</string>
+    <string name="book">Book</string>
+    <string name="loading">Loading...</string>
+
+    // validation text for error
+    <string name="title_error_text">Title field is empty</string>
+    <string name="description_error_text">Description field is empty</string>
+    <string name="person_name_error_text">Name field is empty</string>
+    <string name="person_email_error_text">Enter valid Email</string>
+    <string name="person_phone_error_text">Enter valid phone number(more than 9 and less than 13 characters)</string>
+    <string name="slot_not_availble">Slots are not available, please book green color slots only</string>
+
+    <string name="room_boooked">Rooms has booked successfully</string>
+    <string name="room_not_boooked">Rooms has not booked , There is something problem</string>
+    <string name="network_error">Please check the network connection</string>
+</resources>
